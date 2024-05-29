@@ -1,0 +1,28 @@
+a{
+    border: 2px outset rgb(0, 5, 7);
+    font-style: oblique;
+    font-size: 18px;
+    color: black;
+    display: block;
+    padding: 10px;
+    
+}
+
+#restau{
+    background-image: url(friands_au_jambon.jpg) ;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: 1300px 1300px;
+    
+}
+
+#liens{
+    border: 2px outset rgb(0, 5, 7);
+    font-style: oblique;
+    font-size: 18px;
+    color: green;
+    display: block;
+    padding: 10px;
+}
+
+

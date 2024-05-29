@@ -1,0 +1,31 @@
+table{
+    background-color: beige;
+    border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+    padding: 12px;
+    position: fixed;
+    align-self: center;
+}
+
+th{
+    border: 1px solid darkblue;
+}
+
+caption{
+    border: 1px solid black;
+    background-color: skyblue;
+}
+
+td /* Toutes les cellules des tableaux... */
+{
+    text-align: center;
+    font-size: 50px;
+    border: 1px solid black; /* ... auront une bordure de 1px */
+}
+.mp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+body{
+    background-color: bisque;
+}

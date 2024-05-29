@@ -1,0 +1,83 @@
+li{
+    display: inline-block;
+    text-align: center;
+    margin-left: 70px;
+}
+
+
+body{
+    background-image: url(dessert-alimentaire-elements-representatifs_23-2149177070.jpg);
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: 1300px 1300px;
+}
+.apparence{
+    max-height: 500px;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 200px;
+    position: relative;
+    bottom: 10px;
+
+}
+.self{
+    max-width: 460px;
+    font-size: 5px;
+    padding: 20px 45px;
+    background-color: rgb(15, 15, 19);
+    color: white;
+    margin-left: 100px;
+    position: relative;
+    bottom: 1360px;
+}
+.bord{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin-left: 90px;
+    position: relative;
+    bottom: 570px;
+}
+.bord1{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin-left: 90px;
+    position: relative;
+    top: -345px;
+    left: 475px;
+}
+
+.tel{
+    color: aqua;
+    text-decoration: none;
+}
+*{
+    font-family: Arial;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Monotype Corsiva;
+}
+nav{
+    display: inline-block;
+    text-align: left;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+header{
+    background-image: url(image\ head2.webp);
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 10px;
+
+}
+div{
+    text-align: center;
+    margin-bottom: 300px;
+}
